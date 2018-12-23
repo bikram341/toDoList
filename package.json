@@ -1,0 +1,14 @@
+{
+  "name": "file-manupulation",
+  "version": "1.0.0",
+  "description": "read write delete from file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bikram Roy",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.5"
+  }
+}
